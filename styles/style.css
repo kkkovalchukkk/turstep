@@ -422,3 +422,9 @@ iframe {
 .content-section__six .content-section__block-xl {
   height: auto;
 }
+
+.content-section__eight {
+  display: grid;
+  place-items: center;
+  padding: 25px;
+}
